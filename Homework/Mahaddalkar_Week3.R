@@ -6,6 +6,7 @@
 # Homework number: 3
 # Date due: 09-13-2020
 #
+#
 # Set working directory 
 setwd("~/Desktop/IST687/Homework") # Change to the folder containing your homework data files
 
