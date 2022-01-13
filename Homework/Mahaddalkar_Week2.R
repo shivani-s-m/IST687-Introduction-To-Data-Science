@@ -5,8 +5,6 @@
 # Homework number: 2
 # Date due:  9/6/2020
 #
-
-
 # Loading the mtcars data set
 myCars <- mtcars
 summary(myCars)
