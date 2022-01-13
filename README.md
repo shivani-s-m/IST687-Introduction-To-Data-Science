@@ -1,6 +1,6 @@
 # IST687-Introduction To Data Science
 
-This contains the coursework IST 687- Introduction to Data Science at Syracuse University
+This contains the coursework for IST 687- Introduction to Data Science at Syracuse University
 
 # Key Learnings
 
