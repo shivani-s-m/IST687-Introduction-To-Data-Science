@@ -4,7 +4,6 @@
 # Student name: Shivani Sanjay Mahaddalkar
 # Homework number: 4
 # Date due:  9/20/2020
-#
 # Set working directory 
 setwd("~/Desktop/IST687/Homework")
 
