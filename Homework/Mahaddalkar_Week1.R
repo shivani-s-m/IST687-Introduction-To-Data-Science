@@ -1,5 +1,5 @@
 ################################################
-# Intro to data science, Standard Homework Heading
+# Intro to data science
 #
 # Student name: Shivani Sanjay Mahaddalkar
 # Homework number: 1
